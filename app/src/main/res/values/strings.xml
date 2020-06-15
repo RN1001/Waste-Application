@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> My Waste </string>
+    <string name="title_activity_main_frag">MainActivityFrag</string>
+    <string name="title_home">My Addresses</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Recycling info</string>
+
+</resources>

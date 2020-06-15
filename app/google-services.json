@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927382945631",
+    "firebase_url": "https://leedswasteapp.firebaseio.com",
+    "project_id": "leedswasteapp",
+    "storage_bucket": "leedswasteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927382945631:android:0b7122b005c8999c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927382945631-3tvi1i8bjf7q26imqkaubkm92itojkhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn.app.leedswasteapp",
+            "certificate_hash": "b310d1d1a0d0ed023c0fdbf1dc0ce78891ecc8b5"
+          }
+        },
+        {
+          "client_id": "927382945631-0i3p3968n23qs90hqh7g1q4h2onsmgho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMeabk3OFzUyjXZfKpKOckk1wPfoY6CKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927382945631-0i3p3968n23qs90hqh7g1q4h2onsmgho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
